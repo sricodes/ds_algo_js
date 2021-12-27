@@ -1,0 +1,23 @@
+{
+  "name": "ds_algo_js",
+  "version": "1.0.0",
+  "description": "basic problems in js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sricodes/ds_algo_js.git"
+  },
+  "author": "sriram kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sricodes/ds_algo_js/issues"
+  },
+  "homepage": "https://github.com/sricodes/ds_algo_js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
